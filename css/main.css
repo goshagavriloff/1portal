@@ -32,6 +32,7 @@
   align-items: center;
   z-index: 19;
   position: relative;
+  margin-right: 3em;
 }
 
 .menu-icon-line {
